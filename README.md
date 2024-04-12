@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImperviousPanda
-- 👀 I’m interested in typescript
-- 🌱 I’m currently learning positive dog training
+- 👀 I’m learning how to build an expo app
+- 🌎 I like to work on technologies that help the planet
 - 💞️ I’m looking to collaborate on React Native, Serverless stack, AWS.
 - 📫 How to reach me britney.devs@gmail.com
 
